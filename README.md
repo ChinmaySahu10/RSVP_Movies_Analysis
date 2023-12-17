@@ -13,7 +13,7 @@
 * [Approach](#approach)
 * [Results and Conclusions](#results-and-conclusions)
 * [Repository Structure](#repository-structure)
-* [Instruction](#instruction)
+* [Instructions](#instructions)
 * [Contact](#contact)
 
 ### Problem Statement
