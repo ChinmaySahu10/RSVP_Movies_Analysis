@@ -12,6 +12,8 @@
 * [Dataset](dataset)
 * [Approach](#approach)
 * [Results and Conclusions](#results-and-conclusions)
+* [Repository Structure](#repository-structure)
+* [Instruction](#instruction)
 * [Contact](#contact)
 
 ### Problem Statement
@@ -80,18 +82,17 @@ Lastly, the report suggests that RSVP can `collaborate with Marvel Studios, Twen
 The insights gained from this analysis can guide the company's lead management strategy by focusing on leads with higher predicted conversion probabilities. This targeted approach can lead to increased conversion rates, efficient resource allocation, and improved overall sales performance.
 
 ### Repository Structure
-<ul>
-    <li>script: The quesries are written here for anlysis. Also, contains the dataset used for the analysis.</li>
-    <li>README.md: This file providing an overview of the project.</li>
-</ul>
+
+- script: The queries are written here for anlysis. Also, contains the dataset used for the analysis.
+- Summary File: The findings & insights have been summerised in this file for better readability.
+- README.md: This file providing an overview of the project.
+
 
 ### Instructions
 To replicate the analysis and model building, follow these steps:
-<ul>
-    <li>Clone the repository to your local machine.</li>
-    <li>Install the required dependencies by running pip install -r requirements.txt.</li>
-    <li>Open the Jupyter notebooks in the notebooks directory and execute the cells sequentially.</li>
-</ul>
+- Clone the repository to your local machine.
+- Install the required dependencies i.e MySQL Workbench 8.0 CE to run the script.
+- Once inside the application use it to load the script given in this repository.
 
 ## Contact
    
