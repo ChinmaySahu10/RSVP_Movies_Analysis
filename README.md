@@ -9,16 +9,16 @@ By addressing specific questions in each segment, I aim to uncover valuable insi
 ## Table of Contents:
 * [Problem Statement](#problem-statement)
 * [Business Goal](#business-goal)
-* [DataSet](dataset)
+* [Dataset](dataset)
 * [Approach](#approach)
 * [Results and Conclusions](#results-and-conclusions)
 * [Contact](#contact)
 
 ### Problem Statement
-The objective is to equip the production company with the necessary insights to shape a successful and data-driven approach for their global movie release in 2023. 
+> The objective is to equip the production company with the necessary insights to shape a successful and data-driven approach for their global movie release in 2023. 
 
 ### Business Goal
-The primary business goal for RSVP Movies in this project is to strategically plan and execute the upcoming global movie release in 2023. Specifically, the production company aims to leverage data-driven insights derived from the analysis of the past three years' movie releases.The business goals can be summarized as follows:
+> The primary business goal for RSVP Movies in this project is to strategically plan and execute the upcoming global movie release in 2023. Specifically, the production company aims to leverage data-driven insights derived from the analysis of the past three years' movie releases.The business goals can be summarized as follows:
 
 1) **Informed Decision-Making**: Utilize data analytics to make informed decisions for the global audience project, ensuring strategic planning and execution.
 
@@ -33,7 +33,7 @@ The primary business goal for RSVP Movies in this project is to strategically pl
 By achieving these business objectives, RSVP Movies aims to position itself for success in the global cinema landscape and enhance its reputation as a producer of blockbuster movies.
 
 ### Dataset
-The dataset used for this project includes information from past 3 years i.e. 2019 to 2022 about directors, movies, names, rating for each movies & actors. Also it includes the genre & roles of each film.
+> The dataset used for this project includes information from past 3 years i.e. 2019 to 2022 about directors, movies, names, rating for each movies & actors. Also it includes the genre & roles of each film.
 
 ## Approach
 The approach for this project was carried out in a systematic and structured process to ensure effective analysis and meaningful insights. Here's a detailed description:
